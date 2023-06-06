@@ -51,7 +51,7 @@
                 <div class="app__footer">
                     <div class="app__footer__links">
                         <a href="https://github.com/sj57" target="_blank">פרוייקט קוד פתוח</a>
-                        <a href="https://github.com/sj57/privacy" target="_blank">מדיניות פרטיות</a>
+                        <a href="https://github.com/sj57/policies" target="_blank">מדיניות פרטיות</a>
                     </div>
                     <div class="app__footer__logo">
 
